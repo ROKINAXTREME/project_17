@@ -1,0 +1,3 @@
+list1=[int(input("input a number")), int(input("input a number")), int(input("input a number")), int(input("input a number")), int(input("input a number"))]
+print("Your list is ",list1)
+print("The max number in this list is ",max(list1))
